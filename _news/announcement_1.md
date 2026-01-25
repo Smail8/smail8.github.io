@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: Paper accepted at ICLR 2025
+date: 2025-01-22 10:00:00 +0200
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Paper accepted at ICLR 2025: [Learning Geometric Reasoning Networks for Multi-Robot Task and Motion Planning](https://openreview.net/forum?id=ajxAJ8GUX4).
