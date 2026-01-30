@@ -138,10 +138,25 @@
     {
       "name": "AI & ML",
       "level": "Advanced",
-      "keywords": ["Detection", "Segmentation", "CNN", "GNN", "VAE", "Diffusion", "Transformers", "ViT", "LSTM", "SSL", "Representation Learning"]
+      "keywords": 
+      [
+        "Predictive Models", 
+        "Detection Models", 
+        "Generative AI",
+        "Representation Learning",
+        "Self-Supervised Learning (SSL)",
+        "Transformers",
+        "Vision Transformers (ViT)", 
+        "Convolutional Neural Networks (CNN)", 
+        "Graph Neural Networks (GNN)", 
+        "Variational Autoencoders (VAE)", 
+        "Diffusion Models", 
+        "Long Short-Term Memory (LSTM)", 
+        "Self-Supervised Learning (SSL)"
+      ]
     },
     {
-      "name": "Robotics & Perception",
+      "name": "Robotics",
       "level": "Advanced",
       "keywords": ["ROS", "Planning", "Perception", "Control", "Manipulation", "Sim2Real", "Reinforcement Learning"]
     }
