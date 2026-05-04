@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-09'
+  last_updated: '2026-05-04'
 papers:
   bWxNji0AAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -42,7 +42,7 @@ papers:
     title: Learning Geometric Reasoning for Robot Task and Motion Planning
     year: '2025'
   bWxNji0AAAAJ:u5HHmVD_uO8C:
-    citations: 40
+    citations: 41
     title: 'Pedestrian Intention Prediction: A Multi-Task Perspective'
     year: '2020'
   bWxNji0AAAAJ:ufrVoPGSRksC:
